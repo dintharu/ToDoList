@@ -57,13 +57,12 @@ This is a standalone JavaFX application developed as a personal productivity too
 ## 🖼️ Screenshots
 
 ### 📋 App Interface
-![App Interface](resources/images/interface_image.jpg)
+![App Interface](src/main/resources/images/interface_image.jpg)
 
-### 💾 Database Interaction
-![Database Screenshot](resources/images/DBMS_SS.jpg)
+![Database Screenshot](src/main/resources/images/DBMS_SS.jpg)
 
 ### 🔔 Real-Time Desktop Notification
-![Real-Time Notification](resources/images/RealTime_Desktop.jpg)
+![Real-Time Notification](src/main/resources/images/RealTime_Desktop.jpg)
 
 ---
 
