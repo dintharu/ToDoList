@@ -56,9 +56,14 @@ This is a standalone JavaFX application developed as a personal productivity too
 
 ## 🖼️ Screenshots
 
-![App Interface](C:\Users\LENOVO\ICD114\Standalone application development\images of GItHub SS\todoList SS\interface_image)
-![App Interface](C:\Users\LENOVO\ICD114\Standalone application development\images of GItHub SS\todoList SS\DBMS_SS)
-![App Interface](C:\Users\LENOVO\ICD114\Standalone application development\images of GItHub SS\todoList SS\RealTime_Desktop)
+### 📋 App Interface
+![App Interface](images/interface_image.png)
+
+### 💾 Database Interaction
+![Database Screenshot](images/DBMS_SS.png)
+
+### 🔔 Real-Time Desktop Notification
+![Real-Time Notification](images/RealTime_Desktop.png)
 
 ---
 
